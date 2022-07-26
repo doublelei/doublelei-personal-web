@@ -25,7 +25,7 @@ experience:
   - title: Adversarial Calibration between Modalities
     company: DeLight Lab, Carnegie Mellon University
     company_url: 'https://www.ri.cmu.edu/robotics-groups/delight/'
-    company_logo: delight
+    company_logo: Delight
     location: Pittsburgh, PA
     date_start: '2021-06-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Full-Range Monocular Detection of Human Body Meshes
     company: DeLight Lab, Carnegie Mellon University
     company_url: 'https://www.ri.cmu.edu/robotics-groups/delight/'
-    company_logo: delight
+    company_logo: Delight
     location: Pittsburgh, PA
     date_start: '2021-03-01'
     date_end: ''
