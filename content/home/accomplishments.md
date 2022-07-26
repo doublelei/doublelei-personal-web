@@ -23,29 +23,54 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2019-09-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: CUHKSZ
+    organization_url: https://sse.cuhk.edu.cn/en
+    title: Dean's List Award of School of Science and Engineering
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: ''
+    date_end: '2018-09-01'
+    date_start: '2015-09-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: CUHKSZ
+    organization_url: https://sme.cuhk.edu.cn/en
+    title: Dean's List Award of School of Management and Economics
+    url: ''
+  - certificate_url: ''
+    date_end: '2019-03-01'
+    date_start: '2017-03-01'
+    description: ''
+    organization: CUHKSZ
+    organization_url: https://www.cuhk.edu.cn/en
+    title: Undergraduate Research Award
+    url: ''
+  - certificate_url: ''
+    date_end: '2019-03-01'
+    date_start: '2017-03-01'
+    description: ''
+    organization: CUHKSZ
+    organization_url: https://www.cuhk.edu.cn/en
+    title: Student Outstanding Performance and Leadership Award
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2018-03-01'
+    description: ''
+    organization: CFA
+    organization_url: https://www.cfainstitute.org/en/
+    title: 2017-2018 Champion of the CFA Institute Research Challenge in China Local
+    url: ''
+  
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2017-06-01'
+    description: ''
+    organization: ICBC
+    organization_url: http://icbc.bridgeplus.cn/
+    title: First prize of Industrial and Commercial Bank of China Bridge+ Competition
     url: ''
 
 design:
