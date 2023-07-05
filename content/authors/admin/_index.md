@@ -1,8 +1,8 @@
 ---
 title: Yutian Lei
-role: Master of Robotics
+role: Research Engineer Intern
 interests:
-  - Artificial Intelligence
+  - Embodied AI
   - Computer Vision
   - Multimodal Machine Learning
 social:
@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/yutian-lei-0ba3a314b/
 organizations:
-  - name: Carnegie Mellon University
-    url: https://www.cmu.edu/
+  - name: Baidu USA
+    url: http://usa.baidu.com/
 education:
   courses:
     - course: Ms in Robotics
@@ -33,8 +33,14 @@ email: "yutianle@andrew.cmu.edu"
 superuser: true
 highlight_name: true
 ---
-I'm a Master's student in robotics at Carnegie Mellon University under Professor Fernando la Torre and Dr. Dong Huang at the DeLight Lab. My long-term research goal is to improve the way artificial intelligent agents perceive, interpret and understand the world.
+Welcome to my personal website. I'm currently a Research Engineer Intern at Baidu USA, after receiving my Master's degree in Robotics from Carnegie Mellon University, where I had the distinct honor of working under the guidance of Prof. Fernando la Torre and Dr. Dong Huang at the DeLight Lab.
 
-My current research interests focus on **1) 3D Vision**: The ability to infer, model, and utilize 3D representations is of significant importance in AI, with applications ranging from robotic manipulation and self-driving to virtual reality. Currently I'm working on the project about reconstructing full-range human meshes through monocular camera; **2) Multimodal Machine Learning**: Recent researches prove that AI agents benefit from multimodal learning especially for complicated tasks. Dr. Dong and I are recently developing the alogrithm to directly transfer representation and knowledge between modalities (from Lidar, WiFi, and infrared to RGB images). 
+My mission is to enhance the capabilities of artificial intelligent agents in perceiving, interpreting, and interacting with the world. To accomplish this, my work centers around three key areas:
 
-I'm always open to new opportunities and challenges, so don't be afraid to contact me :)
+**3D Vision**: I believe in the transformational power of 3D representations in AI, with applications spanning robotic manipulation, autonomous driving, and virtual reality. 
+
+**Multimodal Machine Learning**: My research has led me to the conclusion that AI agents can achieve significantly improved results by harnessing the power of multimodal learning, especially for intricate tasks. I had the privilege of collaborating with Dr. Dong on developing an algorithm that directly transfers representation and knowledge across diverse modalities, including Lidar, WiFi, infrared, and RGB images.
+
+**Embodied AI**: I have a deep fascination for Embodied AI, and the potential it holds for revolutionizing various industries and aspects of everyday life. At Baidu, I led the design and development of the RobotGPT platform.
+
+I'm always keen to embrace new opportunities in AI and Robotics. If you have a challenging project or want to discuss the future of AI and Robotics, feel free to reach out. I'd love to connect!

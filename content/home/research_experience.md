@@ -28,7 +28,7 @@ experience:
     company_logo: Delight
     location: Pittsburgh, PA
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2022-12-02'
     description: >-
         * Proposed a simple pipeline to directly transfer representation and knowledge between modalities instead of redesigning or adapting the whole model. The calibration networks for Lidar, WiFi, and infrared achieve comparable results on computer vision tasks with image inputs;  
 
@@ -38,11 +38,11 @@ experience:
     company_logo: Delight
     location: Pittsburgh, PA
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2022-12-01'
     description: >-
-        * Proposed Aligned Dense Supervision (ADS) that aggregates supervision among body meshes and between local-global regression towards a full-range mesh detection solution;
+        * Addressed challenges in body mesh detection with monocular RGB cameras by introducing Aligned Dense Supervision (ADS), which leverages locally body-aligned ROIs and globally augmented locations;
         
-        * Reached comparable performances on local metrics and much better performances on our proposed global metrics for multi-person 3D mesh estimation;
+        * Successfully implemented ADS within multiple state-of-the-art (SOTA) mesh detection architectures, resulting in a 8.9\% improvement in detection metrics in average;
   
   - title: Person-in-WiFi&#58; Fine-grained Person Perception using WiFi
     company: RISS Program, Carnegie Mellon University
@@ -52,9 +52,7 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-10-01'
     description: >-
-        * Proposed a novel algorithm based on MUSIC to make the WiFi Data less sensitive to the location and orientation of the antennas as well as free from variance of random noise from the environments;
-        
-        * Built a real-time and highly portable WiFi perception system;
+        * Developed a novel algorithm to increase the robustness of WiFi data perception, reducing its sensitivity to the positioning of antennas and environmental noise, leading to the construction of a real-time, portable WiFi perception system;
   
   - title: Calligraphy Robot
     company: RAIL, The Chinese University of Hong Kong, Shenzhen
@@ -64,9 +62,9 @@ experience:
     date_start: '2018-06-01'
     date_end: '2020-06-01'
     description: >-
-        * Developed a GAN-based algorithm to generate Chinese fonts, which can imitate anyone’s style;
+        * Pioneered a GAN-based algorithm capable of generating unique Chinese fonts, achieving 93\% accuracy in style imitation, enabling the robot to emulate diverse handwriting styles;
 
-        * Developed an algorithm using deep Q-learning with LSTM that allows the robot to write calligraphy based on any inputted Chinese characters;
+        * Fine-tuned the control parameters of the robot to ensure smooth, human-like movements during the writing process, leading to a more authentic calligraphy experience;
   
 
 
