@@ -32,7 +32,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "Report.pdf"
+url_pdf: "project/cfa/Report.pdf"
 url_slides: "Slides.pdf"
 url_video: ""
 

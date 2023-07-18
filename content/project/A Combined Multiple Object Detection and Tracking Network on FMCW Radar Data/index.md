@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "report.pdf"
+url_pdf: "project/a-combined-multiple-object-detection-and-tracking-network-on-fmcw-radar-data/report.pdf"
 url_slides: ""
 url_video: ""
 

@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "report.pdf"
+url_pdf: "http://localhost:1313/project/joint-3d-human-mesh-and-texture-estimation-from-a-single-rgb-image/report.pdf"
 url_slides: ""
 url_video: ""
 
