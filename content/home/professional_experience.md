@@ -30,9 +30,9 @@ experience:
     date_start: '2023-02-01'
     date_end: ''
     description: >-
-        *  Integrated MixFormer into the SmartCarne system, improving real-time payload tracking performance by 26\% during construction and enabling more efficient real-time decision-making.
-        
-        *  Led the design and development of the RobotGPT platform  using V-REP, leveraging a visual language model (LLAVA), a policy agent based on Perceiver-Actor, and a unique vision-language representation. This integrated approach significantly improved 3D scene perception, strategic task planning, robotic decision-making, and human-robot interaction, leading to a 35\% overall increase in robotics operations success rate.
+        *  Significantly optimized the SmartCarne system by integrating critical perception algorithms: MixFormer for enhanced real-time payload tracking and improved cargo management; BEVFusion for improved 3D object detection, enhancing navigation in complex environments; SemAttNet for depth completion, enhancing spatial understanding for precise maneuvering; and YOLOv8 for improved object detection, strengthening situational awareness and decision-making. These collective refinements significantly increased the system's operational efficiency and reliability.
+
+        *  Led the design and development of the RobotGPT platform using V-REP, leveraging a visual language model (LLAVA), a policy agent based on Perceiver-Actor, and a unique vision-language representation. This integrated approach significantly improved 3D scene perception, strategic task planning, robotic decision-making, and human-robot interaction, leading to a 35% overall increase in robotics operations success rate.
 
   - title: Research Intern
     company: UBTECH Robotics
