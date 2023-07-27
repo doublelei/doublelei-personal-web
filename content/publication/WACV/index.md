@@ -23,7 +23,7 @@ publishDate: '2022-07-16T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 IEEE Winter Conference on Applications of Computer Vision (WACV). (Manuscript)*
+publication: In *2024 IEEE Winter Conference on Applications of Computer Vision (WACV). (Submitted)*
 # publication_short: In *ROBIO*
 
 abstract: "The flourishing success of Deep Neural Networks (DNNs) in RGB-input perception tasks has opened unbounded possibilities for non-RGB-input perception tasks, such as object detection from wireless signals, point-clouds, and infrared images. Comparing to the matured development pipeline of RGB-input (source modality) models, developing non-RGB-input (target-modality) models from scratch poses excessive challenges in the modality-specific network design/training tricks and labor in target-modality annotation. In this paper, we propose AdveRsarial Calibration (ARC), an efficient pipeline for calibrating target-modality inputs to the DNN models developed on the source modality. Instead of designing target-modality-specific models from scratch, we compose a target-modality-input model by adding a small calibrator module ahead of a pre-trained source-modality model. In training the target-modality model, ARC leverages (1) prior knowledge adversarially sampled from the source-modality model and (2) paired (target, source) modality data with zero or a few (10%) manual annotations. We demonstrate the effectiveness of ARC by composing the WiFi-input, Lidar-input, and Thermal-Infrared-input models from the pre-trained RGB-input models respectively."
