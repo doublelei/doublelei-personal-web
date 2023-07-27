@@ -10,11 +10,11 @@ authors:
   - Jun Liu
   - Dong Huang
 
-date: '2022-07-016T00:00:00Z'
+date: '2023-07-016T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-07-16T00:00:00Z'
+publishDate: '2023-07-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/WACV/ADS.pdf'
+url_pdf: '' #'publication/WACV/ADS.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
