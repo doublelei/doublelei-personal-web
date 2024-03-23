@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 25
 
 title: Professional Experience
 subtitle:
@@ -30,9 +30,9 @@ experience:
     date_start: '2023-02-01'
     date_end: ''
     description: >-
-        *  Significantly optimized the SmartCarne system by integrating critical perception algorithms: MixFormer for enhanced real-time payload tracking and improved cargo management; BEVFusion for improved 3D object detection, enhancing navigation in complex environments; SemAttNet for depth completion, enhancing spatial understanding for precise maneuvering; and YOLOv8 for improved object detection, strengthening situational awareness and decision-making. These collective refinements significantly increased the system's operational efficiency and reliability.
-
-        *  Led the design and development of the RobotGPT platform using V-REP, leveraging a visual language model (LLAVA), a policy agent based on Perceiver-Actor, and a unique vision-language representation. This integrated approach significantly improved 3D scene perception, strategic task planning, robotic decision-making, and human-robot interaction, leading to a 35% overall increase in robotics operations success rate.
+        *  Optimized the Pangu system by integrating advanced perception algorithms (MixFormer, BEVFusion, SemAttNet, YOLOv8). This significantly enhanced real-time payload tracking, 3D object detection, depth completion, and object detection capabilities, leading to substantial increases in operational efficiency and reliability
+        
+        * Led Development of Robot GPT Platform: A cutting-edge system designed for controlling the Panda robotic arm via Multimodal Large Language Models (LLMs), enhancing precision and adaptability in robotic manipulations. 
 
   - title: Research Intern
     company: UBTECH Robotics

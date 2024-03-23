@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "3D-Aware Human Texture Synthesis"
-summary: "This project presents a generative model capable of producing realistic textures for 3D human body meshes. The model, built on StyleGAN2, was trained using the SURREAL and AGORA datasets, and renders photorealistic images given a variety of poses and camera angles. The authors discuss their results, the challenges they encountered, and potential future directions for their work. \n
+summary: "This project presents a generative model capable of producing realistic textures for 3D human body meshes. The model, built on StyleGAN2, was trained using the SURREAL and AGORA datasets, and renders photorealistic images given a variety of poses and camera angles. \n
 
 The project is awarded as the **best project** of the [course](https://learning-image-synthesis.github.io/sp22/)."
 authors: ["Yutian Lei", "Hao Wu"]
