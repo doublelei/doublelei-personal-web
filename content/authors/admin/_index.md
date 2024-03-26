@@ -1,6 +1,6 @@
 ---
 title: Yutian Lei
-role: Research Engineer Intern
+role: Research Software Engineer 
 
 social:
   - icon: envelope
